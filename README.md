@@ -2,4 +2,4 @@
 DataVizForAll.org story template using modified Bootstrap
 
 ## live view (change to your GitHub Pages link)
-https://emmawellins.github.io/dataviz-story-template/
+https://emmawellins.github.io/data-vis-final-product/
